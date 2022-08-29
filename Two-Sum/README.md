@@ -34,3 +34,6 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 
 
+Point of Two sum is to learn the use of Hashmaps 
+
+It is important to learn hashmaps to search through an array to find two elements in time complexity of O(N) and space complexity of O(N) -of space making hashmaps (dictionary in python) instead of using nested for loops for complexity of O(N^2) 
