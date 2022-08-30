@@ -1,3 +1,4 @@
+# this is my attempt (brute force)
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         #make a iterator
