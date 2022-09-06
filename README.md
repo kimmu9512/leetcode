@@ -16,3 +16,7 @@ This directory contins the code and comments of all the leetcode problems the au
 1. [ Add Two Numbers ](Add-Two-Numbers/README.md)
 
 1. [ Longest Substring Without Repeating Characters](Longest-Substring-Without-Repeating-Characters/README.md)
+
+1. Skipped for later.
+
+1. [ Longest Palindromic Substring ](Longest-Palindromic-Substring/README.md)
